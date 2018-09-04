@@ -7,7 +7,7 @@ My submission for Code Path Courses
 Simple app that displays "Hello From Eddie!" upon starting. Allows user to enter string into text box to change the text displayed. Allows user to change color of text displayed and background color. Lastly, allows user to tap background to reset back to when the app first started.
 
 ### App Walk-though
-<img src="https://makeagif.com/i/yVrZnD" width=200><br>
+<img src="https://media.giphy.com/media/FpDmzLuieSqiVzVBEg/giphy.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
